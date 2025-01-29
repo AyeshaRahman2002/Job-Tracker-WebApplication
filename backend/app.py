@@ -181,7 +181,7 @@ def search_jobs():
     try:
         # Jooble API Configuration
         jooble_api_url = "https://jooble.org/api/"
-        jooble_api_key = "48d59a80-600d-46aa-9544-5d1632269525"
+        jooble_api_key = "YOUR_JOOBLE_API_KEY"
 
         # API Request Body
         payload = {
